@@ -15,6 +15,7 @@ but also sends a push notification to every user currently in the house (which w
 - HTML5 & Javascript. Run in the browser so nobody complains about downloading an app.
 - Gulp to automate builds and continuous integration
 - Firebase to deal with the backend and to make sure everybody gets realtime updates arriving on time.
+- Firebase Authentication, to ease login and connect all specific roommates to a specific house.
 
 
 
